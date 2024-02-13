@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.4)  12 FEB 2024 02:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.4)  13 FEB 2024 17:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -723,37 +723,75 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 \cftbeforetabskip=\skip111
 \cfttabindent=\skip112
 \cfttabnumwidth=\skip113
+)) (/usr/local/texlive/2023/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2023/02/25 v3.4 ragged2e Package
+\CenteringLeftskip=\skip114
+\RaggedLeftLeftskip=\skip115
+\RaggedRightLeftskip=\skip116
+\CenteringRightskip=\skip117
+\RaggedLeftRightskip=\skip118
+\RaggedRightRightskip=\skip119
+\CenteringParfillskip=\skip120
+\RaggedLeftParfillskip=\skip121
+\RaggedRightParfillskip=\skip122
+\JustifyingParfillskip=\skip123
+\CenteringParindent=\skip124
+\RaggedLeftParindent=\skip125
+\RaggedRightParindent=\skip126
+\JustifyingParindent=\skip127
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2023/03/13 v3.1a Micro-typographical refinements (RS)
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count312
+)
+\MT@toks=\toks43
+\MT@tempbox=\box67
+\MT@count=\count313
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1059.
+LaTeX Info: Redefining \leftprotrusion on input line 1060.
+\MT@prot@toks=\toks44
+LaTeX Info: Redefining \rightprotrusion on input line 1078.
+LaTeX Info: Redefining \textls on input line 1368.
+\MT@outer@kern=\dimen192
+LaTeX Info: Redefining \textmicrotypecontext on input line 1988.
+\MT@listname@count=\count314
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2023/03/13 v3.1a Definitions specific to pdftex (RS)
+LaTeX Info: Redefining \lsstyle on input line 902.
+LaTeX Info: Redefining \lslig on input line 902.
+\MT@outer@space=\skip128
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2023/03/13 v3.1a microtype main configuration file (RS)
 )) (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count312
-\l__pdf_internal_box=\box67
-) (./main.aux
-
-LaTeX Warning: Label `comment-table' multiply defined.
-
-)
+\l__color_backend_stack_int=\count315
+\l__pdf_internal_box=\box68
+) (./main.aux (./chapters/intro.aux) (./chapters/analogs.aux) (./chapters/functional-and-non-fuctional.aux) (./chapters/uml-diagrams.aux) (./chapters/database.aux) (./chapters/algorythms.aux) (./chapters/programming-technologies.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -789,25 +827,25 @@ LaTeX Font Info:    ... okay on input line 8.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \th on input line 8.
-Package hyperref Info: Link coloring OFF on input line 8.
+LaTeX Info: Redefining \th on input line 15.
+Package hyperref Info: Link coloring OFF on input line 15.
 (./main.out) (./main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
  (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count313
-\scratchdimen=\dimen192
-\scratchbox=\box68
-\nofMPsegments=\count314
-\nofMParguments=\count315
-\everyMPshowfont=\toks43
-\MPscratchCnt=\count316
-\MPscratchDim=\dimen193
-\MPnumerator=\count317
-\makeMPintoPDFobject=\count318
-\everyMPtoPDFconversion=\toks44
+\scratchcounter=\count316
+\scratchdimen=\dimen193
+\scratchbox=\box69
+\nofMPsegments=\count317
+\nofMParguments=\count318
+\everyMPshowfont=\toks45
+\MPscratchCnt=\count319
+\MPscratchDim=\dimen194
+\MPnumerator=\count320
+\makeMPintoPDFobject=\count321
+\everyMPtoPDFconversion=\toks46
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -816,35 +854,57 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
+LaTeX Info: Redefining \microtypecontext on input line 15.
+Package microtype Info: Applying patch `item' on input line 15.
+Package microtype Info: Applying patch `toc' on input line 15.
+Package microtype Info: Applying patch `eqnum' on input line 15.
+
+
+Package microtype Warning: Unable to apply patch `footnote' on input line 15.
+
+Package microtype Info: Applying patch `verbatim' on input line 15.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 15.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+(/usr/local/texlive/2023/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
+)
 <titulCourse.pdf, id=88, 597.23125pt x 845.1575pt>
 File: titulCourse.pdf Graphic file (type pdf)
 <use titulCourse.pdf>
-Package pdftex.def Info: titulCourse.pdf  used on input line 10.
+Package pdftex.def Info: titulCourse.pdf  used on input line 17.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 File: titulCourse.pdf Graphic file (type pdf)
 <use titulCourse.pdf>
-Package pdftex.def Info: titulCourse.pdf  used on input line 10.
+Package pdftex.def Info: titulCourse.pdf  used on input line 17.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 <titulCourse.pdf, id=91, page=1, 597.23125pt x 845.1575pt>
 File: titulCourse.pdf Graphic file (type pdf)
 <use titulCourse.pdf, page 1>
-Package pdftex.def Info: titulCourse.pdf , page1 used on input line 10.
+Package pdftex.def Info: titulCourse.pdf , page1 used on input line 17.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 File: titulCourse.pdf Graphic file (type pdf)
 <use titulCourse.pdf, page 1>
-Package pdftex.def Info: titulCourse.pdf , page1 used on input line 10.
+Package pdftex.def Info: titulCourse.pdf , page1 used on input line 17.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
 File: titulCourse.pdf Graphic file (type pdf)
 <use titulCourse.pdf, page 1>
-Package pdftex.def Info: titulCourse.pdf , page1 used on input line 10.
+Package pdftex.def Info: titulCourse.pdf , page1 used on input line 17.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
 File: titulCourse.pdf Graphic file (type pdf)
 <use titulCourse.pdf, page 1>
-Package pdftex.def Info: titulCourse.pdf , page1 used on input line 10.
+Package pdftex.def Info: titulCourse.pdf , page1 used on input line 17.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
 File: titulCourse.pdf Graphic file (type pdf)
 <use titulCourse.pdf, page 1>
-Package pdftex.def Info: titulCourse.pdf , page1 used on input line 10.
+Package pdftex.def Info: titulCourse.pdf , page1 used on input line 17.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
  [1
 
@@ -852,10 +912,14 @@ Package pdftex.def Info: titulCourse.pdf , page1 used on input line 10.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Trying to load font information for U+lasy on input line 3.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/base/ulasy.fd
@@ -864,618 +928,1234 @@ File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
- [2{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}] [3
+ [2{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}]
+\openout2 = `chapters/intro.aux'.
 
-] [4]
+ (./chapters/intro.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--10
+[]\T2A/cmr/m/n/14.4 (+20) Одним из та-ких ин-стру-мен-тов упро-ще-ния и ав-то-ма-ти-за-ции
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--10
+\T2A/cmr/m/n/14.4 (+20) жиз-не-де-я-тель-но-сти мо-жет стать веб-приложение для со-став-ле-ния
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--15
+[]\T2A/cmr/m/n/14.4 (+20) Актуальность при-ло-же-ния обос-но-ва-на сле-ду-ю-щим: по дан-ным
+ []
+
+[3
+
+
+]) [4]
+\openout2 = `chapters/analogs.aux'.
+
+ (./chapters/analogs.tex
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 1.
 [5
+
+
+
 
 ]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 71.
+               Default added (so using `tbp') on input line 17.
 
 
-Underfull \hbox (badness 2401) in paragraph at lines 87--87
-\T2A/cmr/m/n/14.4 вре-ме-ни при-ј-ма с при-ме-
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+[]|\T2A/cmr/m/n/14.4 (+20) Мобильное при-ло-же-ние,
  []
 
 
-Underfull \hbox (badness 3417) in paragraph at lines 87--87
-[]|\T2A/cmr/m/n/14.4 Бесплатное до-суп-
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\T2A/cmr/m/n/14.4 (+20) ко-то-рое по-мо-га-ет
  []
 
 
-Underfull \hbox (badness 3965) in paragraph at lines 87--87
-\T2A/cmr/m/n/14.4 ка-сто-ми-за-ция уве-
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\T2A/cmr/m/n/14.4 (+20) с при-ме-ча-ни-ем. Так-же
  []
 
 
-Underfull \hbox (badness 1132) in paragraph at lines 87--87
-\T2A/cmr/m/n/14.4 дом-ле-ний и внеш-
+Underfull \hbox (badness 6658) in paragraph at lines 32--32
+\T2A/cmr/m/n/14.4 (+20) су-ще-ству-ет ин-те-гра-ция с
  []
 
 
-Underfull \hbox (badness 2689) in paragraph at lines 87--87
-\T2A/cmr/m/n/14.4 свие ре-кла-мы до-
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\T2A/cmr/m/n/14.4 (+20) при-ло-же-ни-ем хра-ня-щим
  []
 
 
-Underfull \hbox (badness 2401) in paragraph at lines 87--87
-\T2A/cmr/m/n/14.4 чле-нов се-мьи и со-
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+[]|\T2A/cmr/m/n/14.4 (+20) Бесплатное
  []
 
 
-Underfull \hbox (badness 1014) in paragraph at lines 87--87
-\T2A/cmr/m/n/14.4 зда-ние от-чјт-но-сти о
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\T2A/cmr/m/n/14.4 (+20) до-суп-ны ба-зо-вые
  []
 
 
-Underfull \hbox (badness 1527) in paragraph at lines 87--87
-\T2A/cmr/m/n/14.4 ле-че-нии. При-сут-свие
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\T2A/cmr/m/n/14.4 (+20) функ-ции,
  []
 
 
-Underfull \hbox (badness 1406) in paragraph at lines 87--87
-[]|\T2A/cmr/m/n/14.4 Бесплатное при-ло-
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\T2A/cmr/m/n/14.4 (+20) осталь-ные как
  []
 
 
-Underfull \hbox (badness 1546) in paragraph at lines 87--87
-[]|\T2A/cmr/m/n/14.4 Существование жур-
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\T2A/cmr/m/n/14.4 (+20) ка-сто-ми-за-ция
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
-\T2A/cmr/m/n/14.4 и под-твер-ждјн-ных
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\T2A/cmr/m/n/14.4 (+20) уве-дом-ле-ний и
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
-\T2A/cmr/m/n/14.4 при-ј-мов ле-карств.
+Underfull \hbox (badness 5607) in paragraph at lines 32--32
+\T2A/cmr/m/n/14.4 (+20) внеш-не-го ви-да и
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
-\T2A/cmr/m/n/14.4 ше-го-ся ко-лич-сетва
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\T2A/cmr/m/n/14.4 (+20) до-ступ-ны по
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
-\T2A/cmr/m/n/14.4 ле-карств. Под-держ-
+Underfull \hbox (badness 5985) in paragraph at lines 32--32
+\T2A/cmr/m/n/14.4 (+20) под-пис-ке 4.99$ в
  []
 
 
-Underfull \hbox (badness 6380) in paragraph at lines 87--87
-\T2A/cmr/m/n/14.4 ка схем до-зи-ро-вок.
+Underfull \hbox (badness 2245) in paragraph at lines 32--32
+\T2A/cmr/m/n/14.4 (+20) ме-сяц и 39.99$ в
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
-\T2A/cmr/m/n/14.4 Вы-бор из-ме-ре-ний
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\T2A/cmr/m/n/14.4 (+20) чле-нов се-мьи и
  []
 
 
-Underfull \hbox (badness 2913) in paragraph at lines 87--87
-\T2A/cmr/m/n/14.4 Се-мей-ный до-ступ к
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\T2A/cmr/m/n/14.4 (+20) при-ј-ма ле-кар-ства
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
-[]|\T2A/cmr/m/n/14.4 Обязует сле-дить
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\T2A/cmr/m/n/14.4 (+20) и до-зи-ров-ки.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
-\T2A/cmr/m/n/14.4 вы-бор вре-ме-нит
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\T2A/cmr/m/n/14.4 (+20) Ин-тер-гра-ция с
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\T2A/cmr/m/n/14.4 (+20) при-ло-же-ни-ем
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\T2A/cmr/m/n/14.4 (+20) сле-дя-щим за
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\T2A/cmr/m/n/14.4 (+20) по-ка-за-те-ля-ми
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+[]|\T2A/cmr/m/n/14.4 (+20) Система
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\T2A/cmr/m/n/14.4 (+20) уве-дом-ле-ний
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\T2A/cmr/m/n/14.4 (+20) не гиб-кая и не
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+[]|\T2A/cmr/m/n/14.4 (+20) Мобильное при-ло-же-ние,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\T2A/cmr/m/n/14.4 (+20) ле-карств, от-сле-жи-ва-ет
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\T2A/cmr/m/n/14.4 (+20) по-ка-за-те-ли здо-ро-вья и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+[]|\T2A/cmr/m/n/14.4 (+20) Бесплатное
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+[]|\T2A/cmr/m/n/14.4 (+20) Существование
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\T2A/cmr/m/n/14.4 (+20) жур-на-ла о
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\T2A/cmr/m/n/14.4 (+20) про-пу-щен-ных и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\T2A/cmr/m/n/14.4 (+20) под-твер-ждјн-ных
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\T2A/cmr/m/n/14.4 (+20) при-ј-мов ле-карств.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\T2A/cmr/m/n/14.4 (+20) От-сле-жи-ва-ние
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\T2A/cmr/m/n/14.4 (+20) Под-держ-ка
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\T2A/cmr/m/n/14.4 (+20) схем до-зи-ро-вок.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\T2A/cmr/m/n/14.4 (+20) Вы-бор из-ме-ре-ний
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\T2A/cmr/m/n/14.4 (+20) по-ка-за-те-лей
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\T2A/cmr/m/n/14.4 (+20) вза-ви-си-мо-сти от
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+[]|\T2A/cmr/m/n/14.4 (+20) Обязует сле-дить
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\T2A/cmr/m/n/14.4 (+20) за ко-ли-че-ством
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\T2A/cmr/m/n/14.4 (+20) ле-карств. Не
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\T2A/cmr/m/n/14.4 (+20) удоб-ный вы-бор
  []
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 92.
+               Default added (so using `tbp') on input line 37.
 
 
-Underfull \hbox (badness 1264) in paragraph at lines 108--108
-\T2A/cmr/m/n/14.4 по-ми-на-ю-щее о при-ј-ме ле-
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+[]|\T2A/cmr/m/n/14.4 (+20) Мобильное при-ло-же-ние
  []
 
 
-Underfull \hbox (badness 2818) in paragraph at lines 108--108
-\T2A/cmr/m/n/14.4 карств. Так же име-ю-щие
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) на-по-ми-на-ю-щее о при-ј-ме
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--108
-[]|\T2A/cmr/m/n/14.4 Бесплатно до-
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) воз-мож-ность хра-нить
  []
 
 
-Underfull \hbox (badness 4266) in paragraph at lines 108--108
-\T2A/cmr/m/n/14.4 ступ-но 10 кур-сов
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) ис-то-рию при-ј-мов. И
  []
 
 
-Underfull \hbox (badness 4266) in paragraph at lines 108--108
-\T2A/cmr/m/n/14.4 при-ј-мов ле-карств.
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) со-зда-вать при-ме-ча-ние о
  []
 
 
-Underfull \hbox (badness 3281) in paragraph at lines 108--108
-\T2A/cmr/m/n/14.4 в ме-сяц до-ступ-но
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) ле-карств. По
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--108
-\T2A/cmr/m/n/14.4 неогра-ни-чен-ное
+Underfull \hbox (badness 5985) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) под-пис-ке 1.99$ в
  []
 
 
-Underfull \hbox (badness 2689) in paragraph at lines 108--108
-\T2A/cmr/m/n/14.4 ко-ли-че-ство кур-сов
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) ме-сяц до-ступ-но
  []
 
 
-Underfull \hbox (badness 1014) in paragraph at lines 108--108
-[]|\T2A/cmr/m/n/14.4 Гибкая си-сте-ма уве-
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) неогра-ни-чен-ное
  []
 
 
-Underfull \hbox (badness 3158) in paragraph at lines 108--108
-[]|\T2A/cmr/m/n/14.4 Отсутсвие се-мейн-
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+[]|\T2A/cmr/m/n/14.4 (+20) Гибкая си-сте-ма
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--108
-\T2A/cmr/m/n/14.4 но-го до-сту-па и
+Underfull \hbox (badness 2828) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) уве-дом-ле-ний. Ар-хив
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--108
-\T2A/cmr/m/n/14.4 учј-та про-пу-щен-
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+[]|\T2A/cmr/m/n/14.4 (+20) Отсутсвие
  []
 
 
-Underfull \hbox (badness 1715) in paragraph at lines 108--108
-\T2A/cmr/m/n/14.4 ^^Pпри-нять^^Q и ^^Pот-ло-жить^^Q в
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) се-мейн-но-го
  []
 
 
-Underfull \hbox (badness 2469) in paragraph at lines 108--108
-[]|\T2A/cmr/m/n/14.4 Бесплатно до-ступ-
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) до-сту-па и учј-та
  []
 
 
-Underfull \hbox (badness 8094) in paragraph at lines 108--108
-\T2A/cmr/m/n/14.4 По под-пис-ке 329
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) про-пу-щен-ных
  []
 
 
-Underfull \hbox (badness 1552) in paragraph at lines 108--108
-\T2A/cmr/m/n/14.4 руб-лей раз в три
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+[]|\T2A/cmr/m/n/14.4 (+20) Мобильное при-ло-же-ние
  []
 
 
-Underfull \hbox (badness 1888) in paragraph at lines 108--108
-\T2A/cmr/m/n/14.4 ступ-ны все функ-
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) на-по-ми-на-ю-щие о при-ј-ме
  []
 
 
-Underfull \hbox (badness 4479) in paragraph at lines 108--108
-\T2A/cmr/m/n/14.4 ступ к при-ј-му ле-
+Underfull \hbox (badness 5817) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) ле-карств и о из-ме-ре-нии
  []
 
 
-Underfull \hbox (badness 1552) in paragraph at lines 108--108
-\T2A/cmr/m/n/14.4 от-ло-жить при-јм ле-
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) дан-ных о здо-ро-вье.
  []
 
 
-Underfull \hbox (badness 1072) in paragraph at lines 108--108
-\T2A/cmr/m/n/14.4 кар-ства при по-яв-ле-
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) Су-ще-ству-ет воз-мож-ность
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--108
-[]|\T2A/cmr/m/n/14.4 В срав-не-ние с
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) и из-ме-ре-ний. Се-мей-ный
  []
 
 
-Underfull \hbox (badness 3148) in paragraph at lines 108--108
-\T2A/cmr/m/n/14.4 дру-ги-ми при-ло-же-
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) и ^^Pот-ло-жить^^Q в пуш-
  []
 
 
-Underfull \hbox (badness 2799) in paragraph at lines 108--108
-\T2A/cmr/m/n/14.4 ни-я-ми не пол-ный
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) прј-мов ле-карств.
  []
 
 
-Underfull \hbox (badness 5607) in paragraph at lines 108--108
-\T2A/cmr/m/n/14.4 спи-сок ти-пов до-
+Underfull \hbox (badness 6332) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) По под-пис-ке 329
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--108
-\T2A/cmr/m/n/14.4 зи-ро-вок. Так-же
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) руб-лей раз в
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--108
-\T2A/cmr/m/n/14.4 от-сут-свие воз-
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) три ме-ся-ца, 749
  []
 
 
-Underfull \hbox (badness 7186) in paragraph at lines 108--108
-\T2A/cmr/m/n/14.4 мож-но-сти со-здать
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) до-ступ-ны все
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--108
-\T2A/cmr/m/n/14.4 соб-ствен-ное при-
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) на-по-ми-на-ние
  []
 
 
-Underfull \hbox (badness 1132) in paragraph at lines 108--108
-\T2A/cmr/m/n/14.4 ме-ча-ние к при-ј-му
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) о из-ме-ре-нии
  []
 
 
-Underfull \hbox (badness 2158) in paragraph at lines 108--108
-[]|\T2A/cmr/m/n/14.4 Мобильное для на-по-ми-на-
+Underfull \hbox (badness 4291) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) дан-ных о здо-ро-вье.
  []
 
 
-Underfull \hbox (badness 1635) in paragraph at lines 108--108
-\T2A/cmr/m/n/14.4 ний о при-ј-ме ле-карств и
+Underfull \hbox (badness 1888) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) Се-мей-ный до-ступ к
  []
 
 
-Underfull \hbox (badness 3407) in paragraph at lines 108--108
-\T2A/cmr/m/n/14.4 кий вы-бор пе-ри-о-дич-но-сти
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) при-ј-му ле-карств.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--108
-[]|\T2A/cmr/m/n/14.4 Бесплатное до-
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) Воз-мож-ность
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--108
-\T2A/cmr/m/n/14.4 бав-ле-ние кур-са
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) от-ло-жить при-јм
  []
 
 
-Underfull \hbox (badness 3386) in paragraph at lines 108--108
-\T2A/cmr/m/n/14.4 ле-карств, без. По
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) ле-кар-ства при
  []
 
 
-Underfull \hbox (badness 2689) in paragraph at lines 108--108
-\T2A/cmr/m/n/14.4 дут до-ступ-ны все
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) по-яв-ле-нии
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--108
-\T2A/cmr/m/n/14.4 ме-ча-ний свя-зан-ных
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+[]|\T2A/cmr/m/n/14.4 (+20) В срав-не-ние
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--108
-\T2A/cmr/m/n/14.4 с едой. Се-мей-ный
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) с дру-ги-ми
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--108
-\T2A/cmr/m/n/14.4 со-здать рас-пи-са-ние
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) при-ло-же-ни-я-ми
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--108
-[]|\T2A/cmr/m/n/14.4 Неудобная си-сте-
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) ти-пов до-зи-ро-вок.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--108
-\T2A/cmr/m/n/14.4 ма уве-дом-ле-ний.
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) Так-же от-сут-свие
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--108
-\T2A/cmr/m/n/14.4 Ко-рот-кий спи-сок
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) воз-мож-но-сти
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) при-ме-ча-ние к
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) о при-ј-ме ле-карств и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) до-ступ к при-ј-мам.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) Воз-мож-ность до-ба-вить
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) фо-то к до-бав-лен-но-му
+ []
+
+
+Underfull \hbox (badness 5064) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) ле-кар-ству. Гиб-кий вы-бор
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+[]|\T2A/cmr/m/n/14.4 (+20) Бесплатное
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) до-бав-ле-ние кур-са
+ []
+
+
+Underfull \hbox (badness 2197) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) ле-карств, без. По
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) в ме-сяц в год
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+[]|\T2A/cmr/m/n/14.4 (+20) Большой спи-сок
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) при-ме-ча-ний
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) свя-зан-ных с едой.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) Се-мей-ный до-ступ.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) уве-дом-ле-ний.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T2A/cmr/m/n/14.4 (+20) Ко-рот-кий спи-сок
  []
 
 [6] [7]
-{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 2.
-
-Underfull \hbox (badness 1199) in paragraph at lines 117--123
-[]\T2A/cmr/m/n/14.4 В про-цес-се ана-ли-за тре-бо-ва-ний к веб-приложению для со-став-ле-ния
+Underfull \hbox (badness 1163) in paragraph at lines 63--64
+[]\T2A/cmr/m/n/14.4 (+20) Mediasafe предо-став-ля-ет ши-ро-кий спектр функ-ций, вклю-чая
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 117--123
-
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+\T2A/cmr/m/n/14.4 (+20) воз-мож-ность со-зда-ния ин-ди-ви-ду-аль-но-го гра-фи-ка ле-че-ния,
  []
 
 [8
 
 
-
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 163--168
+Underfull \hbox (badness 3029) in paragraph at lines 84--85
+[]\T2A/cmr/m/n/14.4 (+20) Mr.Pillster предо-став-ля-ет бес-плат-ный до-ступ к до-бав-ле-нию
+ []
+
+
+Underfull \hbox (badness 6927) in paragraph at lines 84--85
+\T2A/cmr/m/n/14.4 (+20) при-е-мов ле-карств, для раз-бло-ки-ро-ва-ния дру-гих функ-ций
+ []
+
+
+Underfull \hbox (badness 1331) in paragraph at lines 85--86
+\T2A/cmr/m/n/14.4 (+20) ле-кар-ста, для раз-бло-ки-ро-ва-ния дру-гих функ-ций необ-хо-ди-ма
+ []
+
+) [9]
+\openout2 = `chapters/functional-and-non-fuctional.aux'.
+
+ (./chapters/functional-and-non-fuctional.tex
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 2.
+
+Underfull \hbox (badness 3199) in paragraph at lines 5--11
+\T2A/cmr/m/n/14.4 (+20) фукн-ци-о-наль-ные тре-бо-ва-ция, ко-то-рые необ-хо-ди-мы для пол-но-цен-но-го
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--11
 
  []
 
-[9] [10]
-{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 3.
-[11
+
+Underfull \hbox (badness 7963) in paragraph at lines 27--30
+[]\T2A/cmr/m/n/14.4 (+20) Приложение долж-но предо-став-лять воз-мож-ность со-хра-нять и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--35
+[]\T2A/cmr/m/n/14.4 (+20) Приложение долж-но иметь функ-цию про-вер-ки на-ли-чия
+ []
+
+[10
+
+
+
 
 ]
-<pics/UML/Patient.png, id=229, 623.32875pt x 393.47pt>
+Overfull \hbox (10.05032pt too wide) in paragraph at lines 44--47
+[]\T2A/cmr/m/n/14.4 (-20) Приложение долж-но обес-пе-чи-вать без-опас-ное хра-не-ние кон-фи-ден-ци-аль-ной
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--59
+[]\T2A/cmr/m/n/14.4 (+20) Веб-приложение долж-но иметь ин-ту-и-тив-но по-нят-ный и
+ []
+
+
+Underfull \hbox (badness 1014) in paragraph at lines 56--59
+\T2A/cmr/m/n/14.4 (+20) при-вле-ка-тель-ный ин-тер-фейс для поль-зо-ва-те-лей всех воз-рас-тов и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--67
+[]\T2A/cmr/m/n/14.4 (+20) Гарантия кон-фи-ден-ци-аль-но-сти и без-опас-но-сти пер-со-наль-ных
+ []
+
+
+Underfull \hbox (badness 1430) in paragraph at lines 64--67
+\T2A/cmr/m/n/14.4 (+20) ме-ди-цин-ских дан-ных па-ци-ен-тов. Так как дан-ный ас-пект стро-го
+ []
+
+
+Underfull \hbox (badness 1383) in paragraph at lines 75--78
+[]\T2A/cmr/m/n/14.4 (+20) Поддерживать воз-мож-ность ло-ка-ли-за-ции ин-тер-фей-са на рус-ском
+ []
+
+[11]
+Underfull \hbox (badness 1097) in paragraph at lines 79--82
+[]\T2A/cmr/m/n/14.4 (+20) Реализовать ав-то-ри-за-цию и управ-ле-ние до-сту-пом к при-ло-же-нию
+ []
+
+) [12]
+\openout2 = `chapters/uml-diagrams.aux'.
+
+ (./chapters/uml-diagrams.tex
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 3.
+
+Underfull \hbox (badness 3460) in paragraph at lines 2--6
+[]\T2A/cmr/m/n/14.4 (+20) В дан-ном раз-де-ле бу-дут пред-став-ле-ны вза-и-мо-дей-ствия ос-нов-ных
+ []
+
+
+Underfull \hbox (badness 1478) in paragraph at lines 2--6
+\T2A/cmr/m/n/14.4 (+20) ак-тив-но-сти. Для со-зда-ния изоб-ра-же-ний диа-грамм бы-ло ис-поль-зо-ва-но
+ []
+
+
+Underfull \hbox (badness 2293) in paragraph at lines 13--16
+\T2A/cmr/m/n/14.4 (+20) уве-дом-ле-ние, ко-то-рое от-прав-ля-ет-ся па-ци-ен-ту телеграмм-ботом в
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--18
+[]\T2A/cmr/m/n/14.4 (+20) Регистрация па-ци-ен-та: Эта воз-мож-ность поз-во-ля-ет па-ци-ен-ту
+ []
+
+
+Underfull \hbox (badness 1052) in paragraph at lines 16--18
+\T2A/cmr/m/n/14.4 (+20) за-ре-ги-стри-ро-вать-ся в си-сте-ме. В про-цес-се ре-ги-стра-ции со-зда-ет-ся
+ []
+
+
+Underfull \hbox (badness 2626) in paragraph at lines 18--20
+[]\T2A/cmr/m/n/14.4 (+20) Редактирование про-фи-ля: Эта воз-мож-ность поз-во-ля-ет па-ци-ен-ту
+ []
+
+
+Underfull \hbox (badness 1558) in paragraph at lines 20--22
+[]\T2A/cmr/m/n/14.4 (+20) Отправка об-рат-ной свя-зи: Эта воз-мож-ность поз-во-ля-ет па-ци-ен-ту
+ []
+
+[13
+
+
+
+
+]
+<pics/UML/Patient.png, id=242, 623.32875pt x 393.47pt>
 File: pics/UML/Patient.png Graphic file (type png)
 <use pics/UML/Patient.png>
-Package pdftex.def Info: pics/UML/Patient.png  used on input line 233.
+Package pdftex.def Info: pics/UML/Patient.png  used on input line 30.
 (pdftex.def)             Requested size: 623.32722pt x 393.46902pt.
- [12 <./pics/UML/Patient.png>]
-<pics/UML/Doctor.png, id=240, 683.55376pt x 502.87875pt>
+ [14 <./pics/UML/Patient.png>]
+Underfull \hbox (badness 1735) in paragraph at lines 46--52
+\T2A/cmr/m/n/14.4 (+20) за-яв-ку на ре-ги-стра-цию мо-де-ра-то-ру веб-приложения. В про-цес-се
+ []
+
+
+Underfull \hbox (badness 4595) in paragraph at lines 52--55
+[]\T2A/cmr/m/n/14.4 (+20) Редактирование про-фи-ля: Эта воз-мож-ность поз-во-ля-ет док-то-ру
+ []
+
+<pics/UML/Doctor.png, id=253, 683.55376pt x 502.87875pt>
 File: pics/UML/Doctor.png Graphic file (type png)
 <use pics/UML/Doctor.png>
-Package pdftex.def Info: pics/UML/Doctor.png  used on input line 265.
+Package pdftex.def Info: pics/UML/Doctor.png  used on input line 63.
 (pdftex.def)             Requested size: 683.5521pt x 502.87752pt.
- [13 <./pics/UML/Doctor.png>]
-<pics/UML/Manager.png, id=252, 567.11874pt x 412.54124pt>
+[15] [16 <./pics/UML/Doctor.png>]
+Underfull \hbox (badness 2096) in paragraph at lines 79--83
+\T2A/cmr/m/n/14.4 (+20) а так-же, при необ-хо-ди-мо-сти, от-стра-нять док-то-ра от вра-чеб-ной
+ []
+
+<pics/UML/Manager.png, id=269, 567.11874pt x 412.54124pt>
 File: pics/UML/Manager.png Graphic file (type png)
 <use pics/UML/Manager.png>
-Package pdftex.def Info: pics/UML/Manager.png  used on input line 296.
+Package pdftex.def Info: pics/UML/Manager.png  used on input line 94.
 (pdftex.def)             Requested size: 567.11736pt x 412.54024pt.
- [14] [15 <./pics/UML/Manager.png>]
+) [17 <./pics/UML/Manager.png>]
+\openout2 = `chapters/database.aux'.
+
+ (./chapters/database.tex
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 4.
 
-Underfull \hbox (badness 10000) in paragraph at lines 359--359
-[]|\T2A/cmr/m/n/14.4 Название ат-ри-
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+[]|\T2A/cmr/m/n/14.4 (+20) Название
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 359--359
-[]|\T2A/cmr/m/n/14.4 Уникальный
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+[]|\T2A/cmr/m/n/14.4 (+20) Обязательный/не
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 359--359
-\T2A/cmr/m/n/14.4 иден-ти-фи-ка-
- []
-
-[16
-
-] [17]
-Underfull \hbox (badness 10000) in paragraph at lines 393--393
-[]|\T2A/cmr/m/n/14.4 Название ат-ри-
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+[]|\T2A/cmr/m/n/14.4 (+20) Уникальный
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 393--393
-[]|\T2A/cmr/m/n/14.4 Уникальный
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+\T2A/cmr/m/n/14.4 (-4) иден-ти-фи-ка-тор
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 393--393
-\T2A/cmr/m/n/14.4 иден-ти-фи-ка-
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+[]|\T2A/cmr/m/n/14.4 (+20) Тип для
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 377--394
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+\T2A/cmr/m/n/14.4 (+20) ло-ги-че-ской
+ []
+
+[18
+
+
+
+
+] [19]
+Underfull \hbox (badness 3646) in paragraph at lines 74--77
+\T2A/cmr/m/n/14.4 (+20) сущ-но-сти пе-ре-се-че-ния, ко-то-рая по-ка-зы-ва-ет ка-кие вра-чи про-из-во-дят
+ []
+
+
+Underfull \hbox (badness 1953) in paragraph at lines 74--77
+\T2A/cmr/m/n/14.4 (+20) на-блю-де-ния и ре-ко-мен-да-ции по ле-чеб-но-му пла-ну для опре-де-лен-но-го
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--94
+[]|\T2A/cmr/m/n/14.4 (+20) Название
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--94
+[]|\T2A/cmr/m/n/14.4 (+20) Обязательный/не
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--94
+[]|\T2A/cmr/m/n/14.4 (+20) Уникальный
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--94
+\T2A/cmr/m/n/14.4 (-4) иден-ти-фи-ка-тор
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--94
+[]|\T2A/cmr/m/n/14.4 (+20) Тип для
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--94
+\T2A/cmr/m/n/14.4 (+20) ло-ги-че-ской
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--95
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 411--413
+Underfull \hbox (badness 10000) in paragraph at lines 112--114
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 451--451
-[]|\T2A/cmr/m/n/14.4 Название ат-ри-
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
+[]|\T2A/cmr/m/n/14.4 (+20) Название
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 451--451
-[]|\T2A/cmr/m/n/14.4 Уникальный
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
+[]|\T2A/cmr/m/n/14.4 (+20) Обязательный/не
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 451--451
-\T2A/cmr/m/n/14.4 иден-ти-фи-ка-
- []
-
-[18]
-Underfull \hbox (badness 10000) in paragraph at lines 480--480
-[]|\T2A/cmr/m/n/14.4 Название ат-ри-
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
+[]|\T2A/cmr/m/n/14.4 (+20) Уникальный
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 480--480
-[]|\T2A/cmr/m/n/14.4 Уникальный
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
+\T2A/cmr/m/n/14.4 (-4) иден-ти-фи-ка-тор
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 480--480
-\T2A/cmr/m/n/14.4 иден-ти-фи-ка-
- []
-
-[19]
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-[]|\T2A/cmr/m/n/14.4 Название ат-ри-
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
+[]|\T2A/cmr/m/n/14.4 (+20) Тип для
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-[]|\T2A/cmr/m/n/14.4 Уникальный
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
+\T2A/cmr/m/n/14.4 (+20) ло-ги-че-ской
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
-\T2A/cmr/m/n/14.4 иден-ти-фи-ка-
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
+[]|\T2A/cmr/m/n/14.4 (+20) Даты и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
+[]|\T2A/cmr/m/n/14.4 (+20) Даты и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
+[]|\T2A/cmr/m/n/14.4 (+20) Даты и
  []
 
 [20]
-
-LaTeX Warning: Reference `pills-type-table' on page 21 undefined on input line 517.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 538--538
-[]|\T2A/cmr/m/n/14.4 Название ат-ри-
+Underfull \hbox (badness 10000) in paragraph at lines 155--159
+[]\T2A/cmr/m/n/14.4 (+20) Для от-сле-жи-ва-ние удо-вле-тво-рен-но-сти поль-з-ва-те-лей в услу-гах
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 538--538
-[]|\T2A/cmr/m/n/14.4 Уникальный
+Underfull \hbox (badness 10000) in paragraph at lines 180--180
+[]|\T2A/cmr/m/n/14.4 (+20) Название
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 538--538
-\T2A/cmr/m/n/14.4 иден-ти-фи-ка-
+Underfull \hbox (badness 10000) in paragraph at lines 180--180
+[]|\T2A/cmr/m/n/14.4 (+20) Обязательный/не
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 560--560
-[]|\T2A/cmr/m/n/14.4 Название ат-ри-
+Underfull \hbox (badness 10000) in paragraph at lines 180--180
+[]|\T2A/cmr/m/n/14.4 (+20) Уникальный
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 560--560
-[]|\T2A/cmr/m/n/14.4 Уникальный
+Underfull \hbox (badness 10000) in paragraph at lines 180--180
+\T2A/cmr/m/n/14.4 (-4) иден-ти-фи-ка-тор
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 560--560
-\T2A/cmr/m/n/14.4 иден-ти-фи-ка-
+Underfull \hbox (badness 10000) in paragraph at lines 180--180
+[]|\T2A/cmr/m/n/14.4 (+20) Тип для
  []
 
 
-LaTeX Warning: Citation `pg-admin' on page 21 undefined on input line 565.
+Underfull \hbox (badness 10000) in paragraph at lines 180--180
+\T2A/cmr/m/n/14.4 (+20) ло-ги-че-ской
+ []
 
-[21] [22]
-<pics/database/ERR-diagram.png, id=311, 1666.225pt x 982.67125pt>
+[21]
+Underfull \hbox (badness 1127) in paragraph at lines 183--187
+\T2A/cmr/m/n/14.4 (+20) по-се-ще-ние ле-ча-ще-го вра-ча. Для это-го в си-сте-ме необ-хо-ди-мо хра-нить
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--207
+[]|\T2A/cmr/m/n/14.4 (+20) Название
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--207
+[]|\T2A/cmr/m/n/14.4 (+20) Обязательный/не
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--207
+[]|\T2A/cmr/m/n/14.4 (+20) Уникальный
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--207
+\T2A/cmr/m/n/14.4 (-4) иден-ти-фи-ка-тор
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--207
+[]|\T2A/cmr/m/n/14.4 (+20) Тип для
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--207
+\T2A/cmr/m/n/14.4 (+20) ло-ги-че-ской
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--207
+[]|\T2A/cmr/m/n/14.4 (+20) Даты и
+ []
+
+[22]
+Underfull \hbox (badness 4084) in paragraph at lines 214--217
+\T2A/cmr/m/n/14.4 (+20) воз-мож-ных ле-картс-вен-ных пре-па-ра-тов. Ат-три-бу-ты дан-ной сущ-но-сти
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--237
+[]|\T2A/cmr/m/n/14.4 (+20) Название
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--237
+[]|\T2A/cmr/m/n/14.4 (+20) Обязательный/не
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--237
+[]|\T2A/cmr/m/n/14.4 (+20) Уникальный
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--237
+\T2A/cmr/m/n/14.4 (-4) иден-ти-фи-ка-тор
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--237
+[]|\T2A/cmr/m/n/14.4 (+20) Тип для
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--237
+\T2A/cmr/m/n/14.4 (+20) ло-ги-че-ской
+ []
+
+
+Underfull \hbox (badness 4328) in paragraph at lines 240--243
+\T2A/cmr/m/n/14.4 (+20) по-мочь поль-зо-ва-те-лю при-дер-жи-вать-ся эф-фек-тив-но-го пла-на ле-че-ния.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--259
+[]|\T2A/cmr/m/n/14.4 (+20) Название
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--259
+[]|\T2A/cmr/m/n/14.4 (+20) Обязательный/не
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--259
+[]|\T2A/cmr/m/n/14.4 (+20) Уникальный
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--259
+\T2A/cmr/m/n/14.4 (-4) иден-ти-фи-ка-тор
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--259
+[]|\T2A/cmr/m/n/14.4 (+20) Тип для
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--259
+\T2A/cmr/m/n/14.4 (+20) ло-ги-че-ской
+ []
+
+
+Underfull \hbox (badness 6364) in paragraph at lines 263--273
+[]\T2A/cmr/m/n/14.4 (+20) Логическое про-ек-ти-ро-ва-ние ба-зы дан-ных веб-прилоежения бы-ло
+ []
+
+
+Underfull \hbox (badness 1173) in paragraph at lines 263--273
+\T2A/cmr/m/n/14.4 (+20) пред-став-ля-ют струк-ту-ру ба-зы дан-ных и свя-зи меж-ду ее эле-мен-та-ми.
+ []
+
+
+Underfull \hbox (badness 2111) in paragraph at lines 263--273
+\T2A/cmr/m/n/14.4 (+20) зна-чи-тель-но упро-ща-ет про-цесс раз-ра-бот-ки. Ре-зуль-тат пре-об-ра-зо-ва-ния
+ []
+
+[23] [24]
+<pics/database/ERR-diagram.png, id=326, 1666.225pt x 982.67125pt>
 File: pics/database/ERR-diagram.png Graphic file (type png)
 <use pics/database/ERR-diagram.png>
-Package pdftex.def Info: pics/database/ERR-diagram.png  used on input line 580.
+Package pdftex.def Info: pics/database/ERR-diagram.png  used on input line 278.
 (pdftex.def)             Requested size: 1666.22095pt x 982.66885pt.
- [23
+ [25
 
- <./pics/database/ERR-diagram.png>]
+ <./pics/database/ERR-diagram.png>])
+\openout2 = `chapters/algorythms.aux'.
+
+ (./chapters/algorythms.tex
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 5.
-<pics/diagrams/register.png, id=318, 313.17pt x 593.21625pt>
+
+Underfull \hbox (badness 1264) in paragraph at lines 7--10
+[]\T2A/cmr/m/n/14.4 (+20) Диаграмма ак-тив-но-сти ^^PРе-ги-стра-ция па-ци-ен-та^^Q пред-став-ля-ет со-бой
+ []
+
+
+Underfull \hbox (badness 3930) in paragraph at lines 11--14
+[]\T2A/cmr/m/n/14.4 (+20) Происходит про-вер-ка вве-ден-ных дан-ных, в слу-чае ес-ли бы-ли
+ []
+
+
+Underfull \hbox (badness 4366) in paragraph at lines 14--17
+[]\T2A/cmr/m/n/14.4 (+20) Происходит про-вер-ка на уни-каль-ность па-ци-ен-та, в слу-чае не
+ []
+
+<pics/diagrams/register.png, id=334, 313.17pt x 593.21625pt>
 File: pics/diagrams/register.png Graphic file (type png)
 <use pics/diagrams/register.png>
-Package pdftex.def Info: pics/diagrams/register.png  used on input line 607.
+Package pdftex.def Info: pics/diagrams/register.png  used on input line 22.
 (pdftex.def)             Requested size: 313.16922pt x 593.2148pt.
-[24
+[26
+
+
+
 
 
 ]
-<pics/diagrams/patient-list.png, id=328, 282.05376pt x 472.76625pt>
+<pics/diagrams/patient-list.png, id=344, 282.05376pt x 472.76625pt>
 File: pics/diagrams/patient-list.png Graphic file (type png)
 <use pics/diagrams/patient-list.png>
-Package pdftex.def Info: pics/diagrams/patient-list.png  used on input line 625.
+Package pdftex.def Info: pics/diagrams/patient-list.png  used on input line 40.
 (pdftex.def)             Requested size: 282.05305pt x 472.76509pt.
- [25 <./pics/diagrams/register.png>]
-<pics/diagrams/doctor-admin.png, id=337, 298.11375pt x 554.07pt>
+ [27 <./pics/diagrams/register.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 44--47
+[]\T2A/cmr/m/n/14.4 (+20) Диаграмма ак-тив-но-сти ^^PАд-ми-ни-стри-ро-ва-ние дан-ных о вра-чах^^Q
+ []
+
+<pics/diagrams/doctor-admin.png, id=354, 298.11375pt x 554.07pt>
 File: pics/diagrams/doctor-admin.png Graphic file (type png)
 <use pics/diagrams/doctor-admin.png>
-Package pdftex.def Info: pics/diagrams/doctor-admin.png  used on input line 646.
+Package pdftex.def Info: pics/diagrams/doctor-admin.png  used on input line 61.
 (pdftex.def)             Requested size: 298.11302pt x 554.06865pt.
- [26 <./pics/diagrams/patient-list.png>]
-<pics/IDEF3/context-diagram.png, id=348, 122.4575pt x 72.27pt>
+[28 <./pics/diagrams/patient-list.png>]
+Underfull \hbox (badness 1342) in paragraph at lines 66--73
+\T2A/cmr/m/n/14.4 (+20) пред-став-ля-ет со-бой гра-фи-че-ское пред-став-ле-ние ос-нов-ных ком-по-нен-тов
+ []
+
+
+Underfull \hbox (badness 3780) in paragraph at lines 66--73
+\T2A/cmr/m/n/14.4 (+20) и объ-ек-ты, ко-то-рые участ-ву-ют в об-ра-бот-ке ин-фор-ма-ции, а так-же
+ []
+
+<pics/IDEF3/context-diagram.png, id=365, 122.4575pt x 72.27pt>
 File: pics/IDEF3/context-diagram.png Graphic file (type png)
 <use pics/IDEF3/context-diagram.png>
-Package pdftex.def Info: pics/IDEF3/context-diagram.png  used on input line 661.
+Package pdftex.def Info: pics/IDEF3/context-diagram.png  used on input line 76.
 (pdftex.def)             Requested size: 122.45718pt x 72.2698pt.
- [27 <./pics/diagrams/doctor-admin.png>] [28 <./pics/IDEF3/context-diagram.png>]
-<pics/IDEF3/context-decomposition.png, id=362, 1075.01625pt x 1082.0425pt>
+[29 <./pics/diagrams/doctor-admin.png>] [30 <./pics/IDEF3/context-diagram.png>]
+<pics/IDEF3/context-decomposition.png, id=379, 1075.01625pt x 1082.0425pt>
 File: pics/IDEF3/context-decomposition.png Graphic file (type png)
 <use pics/IDEF3/context-decomposition.png>
-Package pdftex.def Info: pics/IDEF3/context-decomposition.png  used on input line 676.
+Package pdftex.def Info: pics/IDEF3/context-decomposition.png  used on input line 91.
 (pdftex.def)             Requested size: 1075.01364pt x 1082.03986pt.
- [29
+ [31
 
  <./pics/IDEF3/context-decomposition.png>]
-<pics/IDEF3/context-doctor-admin.png, id=369, 820.06375pt x 253.94875pt>
+<pics/IDEF3/context-doctor-admin.png, id=387, 820.06375pt x 253.94875pt>
 File: pics/IDEF3/context-doctor-admin.png Graphic file (type png)
 <use pics/IDEF3/context-doctor-admin.png>
-Package pdftex.def Info: pics/IDEF3/context-doctor-admin.png  used on input line 685.
+Package pdftex.def Info: pics/IDEF3/context-doctor-admin.png  used on input line 100.
 (pdftex.def)             Requested size: 820.06175pt x 253.94812pt.
-<pics/IDEF3/context-user-list.png, id=371, 850.17625pt x 363.3575pt>
+<pics/IDEF3/context-user-list.png, id=389, 850.17625pt x 363.3575pt>
 File: pics/IDEF3/context-user-list.png Graphic file (type png)
 <use pics/IDEF3/context-user-list.png>
-Package pdftex.def Info: pics/IDEF3/context-user-list.png  used on input line 693.
+Package pdftex.def Info: pics/IDEF3/context-user-list.png  used on input line 108.
 (pdftex.def)             Requested size: 850.17418pt x 363.3566pt.
-<pics/IDEF3/context-change-profile.png, id=373, 759.83875pt x 163.61125pt>
+<pics/IDEF3/context-change-profile.png, id=391, 759.83875pt x 163.61125pt>
 File: pics/IDEF3/context-change-profile.png Graphic file (type png)
 <use pics/IDEF3/context-change-profile.png>
-Package pdftex.def Info: pics/IDEF3/context-change-profile.png  used on input line 701.
+Package pdftex.def Info: pics/IDEF3/context-change-profile.png  used on input line 116.
 (pdftex.def)             Requested size: 759.83688pt x 163.61084pt.
- [30
+) [32
 
  <./pics/IDEF3/context-doctor-admin.png> <./pics/IDEF3/context-user-list.png> <./pics/IDEF3/context-change-profile.png>]
+\openout2 = `chapters/programming-technologies.aux'.
+
+ (./chapters/programming-technologies.tex
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 6.
-[31
 
-] [32]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfil' on input line 758.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfil' on input line 758.
-
-LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 761.
-(/usr/local/texlive/2023/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
-File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)
-Underfull \hbox (badness 2837) in paragraph at lines 759--763
-[]\T2A/cmr/m/n/14.4 Аудитория ин-тер-не-та в 2022 го-ду.: MediaScope [Элек-трон-ный ре-
+Underfull \hbox (badness 10000) in paragraph at lines 2--5
+[]\T2A/cmr/m/n/14.4 (+20) В дан-ной гла-ве бу-дут пред-став-ле-ны вы-бран-ные тех-но-ло-гии
  []
 
 
-Underfull \hbox (badness 1616) in paragraph at lines 759--763
-\T2A/cmr/m/n/14.4 сурс]. - 2023. - URL: []$\T2A/cmtt/m/n/14.4 https : / / mediascope . net / upload / iblock / 3d8 /
+Underfull \hbox (badness 1436) in paragraph at lines 7--10
+[]\T2A/cmr/m/n/14.4 (+20) Для ре-а-ли-за-ции клиент-серверной ар-хи-тек-ту-ры бу-дут при-ме-нять-ся
  []
 
 
-Underfull \hbox (badness 2103) in paragraph at lines 759--763
-\T2A/cmtt/m/n/14.4 qrlhud7t7dxyzw1rhtzxg3rwk8deg7uk / 2022 _ РРќРўР•Р РќР•Рў . pdf$[] \T2A/cmr/m/n/14.4 (да-
+Underfull \hbox (badness 3780) in paragraph at lines 13--18
+\T2A/cmr/m/n/14.4 (+20) Она обес-пе-чи-ва-ет вы-со-кую про-из-во-ди-тель-ность, без-опас-ность и
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 764--766
-[]\T2A/cmr/m/n/14.4 diagrams.net.: Офи-ци-аль-ный сайт. - URL: []$\T2A/cmtt/m/n/14.4 https : / / vk . com /
+Underfull \hbox (badness 1424) in paragraph at lines 30--33
+\T2A/cmr/m/n/14.4 (+20) ре-ше-ние вос-поль-зо-вать-ся телеграмм-ботом для рас-сыл-ки уве-дом-ле-ний.
  []
 
 [33
 
-] (./main.aux)
-
-LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: There were multiply-defined labels.
 
+]
+Underfull \hbox (badness 5924) in paragraph at lines 34--38
+[]\T2A/cmr/m/n/14.4 (+20) Для про-грамм-ной ре-а-ли-за-ции дан-ной кон-цеп-ции бы-ла вы-бра-на
+ []
+
+)
+Underfull \hbox (badness 1226) in paragraph at lines 40--29
+\T2A/cmr/m/n/14.4 (+20) со-вре-мен-ные тех-но-ло-гии раз-вер-ты-ва-ния при-ло-же-ний. Для до-сти-же-ния
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--29
+\T2A/cmr/m/n/14.4 (+20) гиб-ко-сти ис-поль-зо-ва-ния предо-став-лен-ной про-вай-де-ром сер-вер-ной
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--29
+\T2A/cmr/m/n/14.4 (+20) ин-фра-струк-ту-ры бу-дет ис-поль-зо-вать-ся ин-стру-мент кон-тей-не-ри-за-ции
+ []
+
+[34]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hfil' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hfil' on input line 42.
+
+LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 45.
+(/usr/local/texlive/2023/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmtt' (encoding: T2A).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--47
+[]\T2A/cmr/m/n/14.4 (+20) Аудитория ин-тер-не-та в 2022 го-ду.: MediaScope [Элек-трон-ный
+ []
+
+
+Underfull \hbox (badness 5490) in paragraph at lines 43--47
+\T2A/cmr/m/n/14.4 (+20) ре-сурс]. - 2023. - URL: []$\T2A/cmtt/m/n/14.4 https : / / mediascope . net / upload / iblock /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--47
+\T2A/cmtt/m/n/14.4 3d8 / qrlhud7t7dxyzw1rhtzxg3rwk8deg7uk / 2022 _ РРќРўР•Р РќР•Рў . pdf$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--50
+[]\T2A/cmr/m/n/14.4 (+20) diagrams.net.: Офи-ци-аль-ный сайт. - URL: []$\T2A/cmtt/m/n/14.4 https : / / vk . com /
+ []
+
+
+Underfull \hbox (badness 2698) in paragraph at lines 62--64
+[]\T2A/cmr/m/n/14.4 (+20) aiogram.: Офи-ци-аль-ный сайт. - URL: []$\T2A/cmtt/m/n/14.4 https : / / aiogram . dev$[] \T2A/cmr/m/n/14.4 (+20) (да-та
+ []
+
+[35
+
+
+
+] [36] (./main.aux (./chapters/intro.aux) (./chapters/analogs.aux) (./chapters/functional-and-non-fuctional.aux) (./chapters/uml-diagrams.aux) (./chapters/database.aux) (./chapters/algorythms.aux) (./chapters/programming-technologies.aux))
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: A77A0106D393AFF8BC6BE42B5D0E526B;6407.
  ) 
 Here is how much of TeX's memory you used:
- 17546 strings out of 476025
- 284117 string characters out of 5790017
+ 20086 strings out of 476025
+ 331510 string characters out of 5790017
  1869388 words of memory out of 5000000
- 37587 multiletter control sequences out of 15000+600000
- 517935 words of font info for 50 fonts, out of 8000000 for 9000
+ 39951 multiletter control sequences out of 15000+600000
+ 520806 words of font info for 91 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 90i,17n,90p,1390b,595s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,17n,90p,1417b,719s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt1440.pfb>
-Output written on main.pdf (33 pages, 510045 bytes).
+Output written on main.pdf (36 pages, 519695 bytes).
 PDF statistics:
- 470 PDF objects out of 1000 (max. 8388607)
- 376 compressed objects within 4 object streams
- 120 named destinations out of 1000 (max. 500000)
- 249 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 505 PDF objects out of 1000 (max. 8388607)
+ 407 compressed objects within 5 object streams
+ 133 named destinations out of 1000 (max. 500000)
+ 13049 words of extra memory for PDF output out of 14400 (max. 10000000)
 
